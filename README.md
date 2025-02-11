@@ -1,6 +1,6 @@
 ### Olá! Eu so o João 👋  
 - Estudante da IBMEC
-- Segundo periodo em Ciencia de Dados e Inteligencia Artificial 🤖  
+- Quarto periodo em Ciencia de Dados e Inteligencia Artificial 🤖  
 #### Programção por escolha ❤️  
 Apaixonado por novas experiencias e tecnologias, em busca sempre de mais conhecimento!  
 
