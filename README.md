@@ -33,7 +33,9 @@ Entusiasta de tecnologia e estudante de Ciência de Dados e Inteligência Artifi
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img src="URL_ADDRESS.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="URL_ADDRESS.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </div>
 
 ## 📊 Estatísticas do GitHub
@@ -44,11 +46,5 @@ Entusiasta de tecnologia e estudante de Ciência de Dados e Inteligência Artifi
 
 ## 📈 Contribuições
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoGabTasca&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-  <br><p align="centre"><b>Visitantes</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoGabTasca}/count.svg" /></p> 
-  <br>
-</div>
 
 
