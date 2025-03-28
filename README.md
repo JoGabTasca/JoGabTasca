@@ -1,18 +1,15 @@
-### Olá! Eu so o João 👋  
-- Estudante da IBMEC
-- Quarto periodo em Ciencia de Dados e Inteligencia Artificial 🤖  
-#### Programção por escolha ❤️  
-Apaixonado por novas experiencias e tecnologias, em busca sempre de mais conhecimento!  
+# João Gabriel Assis
 
+## Sobre Mim 👋
+Estudante de Ciência de Dados e Inteligência Artificial no IBMEC. Apaixonado por novas experiências e tecnologias, estou sempre em busca de mais conhecimento e desafios na área de programação! 🤖
+
+## Conecte-se Comigo 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-gabriel-assis/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jg_tasca/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jg_tasca/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zecademonho&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zecademonho&layout=compact)  
-
-## Tecnologias que uso  
-<div style="display: inline_block"><br/>
+## Tecnologias e Ferramentas 🚀
+<div style="display: inline_block">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,6 +20,10 @@ Apaixonado por novas experiencias e tecnologias, em busca sempre de mais conheci
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>  
+</div>
+
+## Estatísticas do GitHub 📊
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Zecademonho&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Zecademonho&layout=compact)
 
 
