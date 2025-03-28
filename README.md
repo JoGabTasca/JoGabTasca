@@ -23,7 +23,7 @@ Estudante de Ciência de Dados e Inteligência Artificial no IBMEC. Apaixonado p
 </div>
 
 ## Estatísticas do GitHub 📊
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Zecademonho&show_icons=true&theme=dracula)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Zecademonho&layout=compact)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=JoGabTasca&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabTasca&layout=compact)
 
 
