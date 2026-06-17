@@ -2,7 +2,7 @@
 
 # João Gabriel Tasca
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+👋;Fundador+da+Kairus+|+Criação+e+desenvolvimento+de+Sistemas+Personalizados;Estudante+de+CDIA+no+IBMEC+🎓;Builder+Full+Stack+|+Python+%7C+React+%7C+FastAPI;Apaixonado+por+IA+e+Inovação+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!+👋;Fundador+da+Kairus+|+Criação+e+Desenvolvimento+de+Sistemas+Personalizados;Estudante+de+CDIA+no+IBMEC+🎓;Builder+Full+Stack+|+Python+%7C+React+%7C+FastAPI;Apaixonado+por+IA+e+Inovação+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🎯 Sobre Mim
 
-Desenvolvedor full stack e empreendedor de tecnologia, fundador do **NAPSE** — plataforma SaaS vertical para clínicas médicas e médicos no Brasil. Estudante de Ciência de Dados e Inteligência Artificial no IBMEC, com foco em soluções reais que combinam produto, dados e IA. Meu stack principal é React, Python/FastAPI e PostgreSQL, com infraestrutura na AWS e integrações como WhatsApp Cloud API, Meta Ads e transcrição por IA.
+Desenvolvedor full stack e empreendedor de tecnologia, fundador da **Kairus** — empresa especializada na criação e desenvolvimento de sistemas personalizados. Estudante de Ciência de Dados e Inteligência Artificial no IBMEC, com foco em soluções reais que combinam produto, dados e IA. Meu stack principal é React, Python/FastAPI e PostgreSQL, com infraestrutura na AWS e integrações como WhatsApp Cloud API, Meta Ads e transcrição por IA.
 
 ---
 
@@ -24,10 +24,10 @@ Desenvolvedor full stack e empreendedor de tecnologia, fundador do **NAPSE** —
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://joaogabriel.assis.net.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%2300bfbf?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/-Portfólio-%237C3AED?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="mailto:joao@napse.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://kairus.group" target="_blank">
+    <img src="https://img.shields.io/badge/-Kairus-%237C3AED?style=for-the-badge&logo=rocket&logoColor=white">
   </a>
 </div>
 
@@ -73,8 +73,8 @@ Desenvolvedor full stack e empreendedor de tecnologia, fundador do **NAPSE** —
 
 ## 🚀 Projetos em Destaque
 
-### 🏥 [NAPSE](https://napse.app) — SaaS para Clínicas Médicas
-Plataforma vertical para gestão de clínicas e médicos no Brasil. Integra agenda, prontuário, transcrição por IA (Whisper), WhatsApp Cloud API, Meta Ads e geração de landing pages. Stack: React + FastAPI + PostgreSQL + AWS. Desenvolvido pela Kairus Dev AI, Tech Provider verificado pela Meta.
+### 🏥 [NAPSE](https://napse.app) — SaaS para Clínicas Médicas · *Kairus*
+Plataforma vertical para gestão de clínicas e médicos no Brasil, desenvolvida pela Kairus. Integra agenda, prontuário, transcrição por IA (Whisper), WhatsApp Cloud API, Meta Ads e geração de landing pages. Stack: React + FastAPI + PostgreSQL + AWS. Tech Provider verificado pela Meta.
 
 ---
 
@@ -126,16 +126,16 @@ Jogo de aventura em Python desenvolvido para a prova final de Programação Estr
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoGabTasca&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Gabriel Tasca github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabTasca&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoGabTasca&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="João Gabriel Tasca github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoGabTasca&layout=compact&hide_border=true&title_color=7C3AED&text_color=7C3AED&bg_color=0d1117" />
 </div>
 
 ## 📈 Contribuições
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoGabTasca&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoGabTasca&bg_color=0d1117&color=7C3AED&line=7C3AED&point=7C3AED&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoGabTasca&color=00bfbf&style=flat-square&label=Visitas+ao+Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=JoGabTasca&color=7C3AED&style=flat-square&label=Visitas+ao+Perfil" />
 </div>
